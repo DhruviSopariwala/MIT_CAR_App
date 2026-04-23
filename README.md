@@ -102,12 +102,7 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501`
 
-### Retrain the Model
-```bash
-python train_best_model.py
-```
 
----
 
 ## 🖥️ App Features
 

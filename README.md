@@ -122,10 +122,6 @@ The app will open at `http://localhost:8501`
 - **Streamlit** — web interface
 - **Pickle** — model serialization
 
----
 
-## 📌 Notes
 
-- The `final_model.pkl` in this repo is pre-trained and ready to use
-- Re-running `train_best_model.py` will overwrite the saved model with the best performer on the current run
-- `scaler.pkl` must match the model — always retrain both together
+
